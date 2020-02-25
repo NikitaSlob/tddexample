@@ -1,0 +1,3 @@
+﻿  part2.cpp
+d:\practic\task2\part2\character.cpp(32): warning C4717: Character::_print: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  part2.vcxproj -> D:\Practic\Task2\Debug\part2.exe
